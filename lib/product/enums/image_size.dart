@@ -1,0 +1,7 @@
+enum ImageSize {
+
+  imageCardSize 
+
+
+
+}
